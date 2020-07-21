@@ -1,0 +1,75 @@
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q1 2020 Financial Results and Q&A Webcast. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director for Investor Relations. Please go ahead, sir.
+
+Martin Viecha -- Senior Director for Investor Relations
+
+Thank you, Sherry, and good afternoon, everyone. Welcome to Tesla's first quarter 2020 Q&A webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q1 results were announced at about 1:00 p.m. Pacific Time in the update deck we published at the same link as this webcast.
+
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up. [Operator Instructions]
+
+Before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk -- Co-Founder and Chief Executive Officer
+
+Thank you. So, Q1 ended up being a strong quarter despite many challenges in the final few weeks. This is the first time we have achieved positive GAAP net income in a seasonally weak first quarter. Even with all the challenges, we achieved a 20% automotive gross margin, excluding regulatory credits while ramping two major products. What we've learned from this is that -- we've obviously learned a lot here. After all -- after the Model 3 ramp from three years ago, our new products get run faster and become profitable sooner. In Q1, we produced more Model Ys in the first quarter than Model 3s in Fremont in the first two quarters. Thus far, the Model Y ramp has been even faster than the Giga Shanghai ramp in Q1. Most surprisingly -- in other words, we are ahead of the schedule that we were ahead of already. Most surprisingly, Model Y was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+
+Regarding Autopilot, we released a new software update for traffic lights and stop signs to early access users in March and to all US customers with full self-driving package just last week. Our cars will now automatically stop at each stop sign or traffic light until the driver gets a confirmation to proceed. I should say that the car is actually capable of much more than this, but we are only exposing functionality that we feel quite good about and where we feel it is probably a safety improvement.
+
+We are collecting data from over 1 million intersections every month at this point. This number will grow exponentially as more people get the update and as more people start driving again. Soon, we will be collecting data from over 1 billion intersections per month. All of those confirmations are training on neural net, essentially, the driver when driving and taking action is effectively labeling -- the labeling reality as they drive, and making the neural net better and better. I think this is an advantage that no one else has, and we're quite literally orders of magnitude more than everyone else combined. I think, this is difficult to fully appreciate. It's the reason I say it's very difficult to have a search engine that competes with Google because everyone is training Google all the time with their searches. So, when you're searching something and you click on a link, you're training Google every time you do that. It's very difficult for any new search engine to compete on that basis.
+
+So, all those confirmations are training on neural net, and soon cars will be able to drive through an intersection without a confirmation, as well as to make turns. And we really feel we're -- I feel extremely confident that it will be possible to do a drive from your home to your office, and most of the time with no interventions by the end of the year. So, this is -- we can almost do this already with the leading edge AlphaBots [Phonetic] that are driving in the car.
+
+So, let's see. On other technology fronts, we increased the range of Model S and X yet again. This time to 391 miles for Model S and 351 miles for Model X. Actually, we said that, actually, the model -- the real Model S range is 400 miles, but when we did the last EPA test, unfortunately, ATA left, the car door opened and the keys in the car. So the car -- and they did this overnight. And so, the car actually went into a waiting for driver mode and lost 2% of its range. And as a result, it had a 391 test. As soon as the EPA reopens for testing, we will redo the test, and we're actually confident that we will achieve a 400 mile or greater range with the Model S. But to be clear, the Model S, for the past two months -- the true range of the Model S for the past two months has been 400 miles. And, of course, we're not stopping there. We're continuously [Phonetic] pushing for improved range over time and improving, handling, acceleration and all those details that make Tesla special.
+
+For Model Y, we introduced a revolutionary two-piece rear underbody casting that we are going to be making a single-piece casting later this year, meaning like essentially the rear third of the body is cast as a single piece, which is no casting of the size of complexity has never been done before. In fact, there isn't even anything that is on par with the two-piece casting for the Model Y. So, we're really pushing the envelope on vehicle structural, engineering and manufacturing. I'm very excited about this approach as it allows us to reduce the weight of the cast and improve NVH. It's better in every way essentially.
+
+We also -- for Model Y, we also introduced a revolutionary new heat pump, which allows the car to have a higher range. So the Model Y has remarkable range on par with -- in fact slightly better than, I guess, the Model 3 and just despite being a bigger car that weighs more. And the heat pump is a key contributor to that. It is especially excellent at low-temperature driving. So -- and the feedback we're getting from customers who have received the Model Y thus far has been universally positive. We're confident this product will be our best-selling product ever.
+
+So in conclusion, and just to -- looking forward, I guess this is a forward-looking statement. We are absolutely continuing our Model Y capacity expansion at full speed at both Giga Berlin and Giga Shanghai and here in Fremont when they will let us continue. Localized production in China and in Europe will bring the cost down, making our products even more competitive over time. While many other companies are cutting back on investment, we are doing the opposite. We're absolutely pedal to the metal on new products and expanding the Company.
+
+And we're really looking forward to being in sometime next year, a truly global manufacturer with major factories in North America, China and Europe and a capacity of well over 1 million units a year. So there's a tremendous amount to look forward to, and we can't wait to tell you what's going to happen. Thank you.
+
+Martin Viecha -- Senior Director for Investor Relations
+
+Thank you. And now to Zach's opening remarks.
+
+Zachary J. Kirkhorn -- Chief Financial Officer
+
+Yeah. Thanks, Martin and thanks, Elon. I'm very proud of the accomplishments of the Tesla team this past quarter. A few things to highlight and add to what Elon just mentioned. We successfully launched, ramped and demonstrated profitability of the Model Y, as Elon mentioned significantly ahead of schedule. This is our second large-scale product launch since Model 3 in 2017 and it's evidence to the progress we've made on cost control and ramp efficiency.
+
+It's hard to understate the significance of demonstrating profitability of this program in its first quarter of production. Our Shanghai Model 3 margins improved dramatically since Q4 of last year, nearing equivalents of Model 3's built in Fremont. This is despite not yet running at full capacity, while also managing through the production shutdown in early February.
+
+We also announced a long-range end performance variant of Model 3 for our road map, which will positively impact ASPs in China. On order rates, we did not experience much of an impact related to the expiration of government incentives at the end of Q4. In fact, we exited the quarter with our highest ever backlog yet again. Aided by these accomplishments, we are able to achieve our first ever Q1 profit. Automotive gross margin, excluding the impact of regulatory credits remained strong for all products, despite charges taken in Q1 associated with production downtime. We continue to make progress on opex efficiency, as well as our service and other margins.
+
+Our energy business was impacted as well by shutdown activities in Q1 limiting deployments. We also experienced expected launch inefficiencies associated with our third version of the Solar Roof, which impacted overall profitability.
+
+As I've noted before, we expect regulatory credit sales, which are credits we sell to other carmakers to generally increase with time. This can be seen by the increase from Q1 relative to Q4. And note that most of the credit revenue did not contribute to cash in Q1, and it's reflected in the accounts receivable on the balance sheet.
+
+Our free cash flows were impacted by the temporary -- by the temporary increase in end of quarter inventory for all our products resulting from the abrupt suspension of production and delivery operations. Had these interruptions not occurred, we were pacing toward a record quarter of deliveries and strong free cash flows.
+
+As Elon mentioned, it is extremely important that we remain on track to achieve our long-term plans and technology road map. We are taking the near-term actions required to continue those investments. Model Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for Model Y in Fremont and Model 3 in Shanghai.
+
+In the near term, our Shanghai factory remains operational, contributing an increasing level of cash flows and profitability to the Company. In Fremont, we're working toward restarting production as soon as that's possible. We are also continuing to deliver cars that we were unable to deliver at the end of the first quarter. Our vehicle inventory balance increased by 14,000 units at the end of Q1, which was a headwind to free cash flows in Q1, but it's helpful in Q2. Note that one of the most important aspects of Model Y in Fremont and Model 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+
+While sales and delivery operations have paused in many areas of the world, we are still receiving many online orders, despite inability for our customers to experience the product prior to ordering. However, unavoidably, the extended shutdown in Fremont will have an impact on our near-term financial performance and we will need to work through how quickly we'll be able to ramp production to prior levels.
+
+More broadly, we remain focused on ensuring our cash flows are managed appropriately. Working capital management, in particular, raw material inventory is the single most important lever in managing our cash flows during this time. The Tesla team has done a great job here. We've also taken actions to eliminate or reduce non-critical expenses and optional investments while continuing to drive efficiencies throughout the business.
+
+Overall, we've modeled many scenarios into 2021 and remain comfortable that we have sufficient liquidity to proceed fully with our most important long-term investments. It's important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity. And we have the ability to quickly adjust our spending and planning as required.
+
+So thank you again to the Tesla team for success in Q1, and we will turn to questions.
+
+Martin Viecha -- Senior Director for Investor Relations
+
+Thank you very much. So we'll take the first questions from institutional investors compiled by Say Technologies.
+

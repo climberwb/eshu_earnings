@@ -1,0 +1,128 @@
+{"text": "Contents:\n ", "labels": []}
+{"text": "Prepared Remarks\n ", "labels": []}
+{"text": "Questions and Answers\n Call Participants\n ", "labels": []}
+{"text": "Prepared Remarks:\n Operator\n \n Ladies and gentlemen", "labels": []}
+{"text": ", thank you for standing by, and welcome to Tesla's Q1 2020 Financial Results and Q&A Webcast.", "labels": []}
+{"text": "[Operator Instructions] Please be advised that today's conference is being recorded.", "labels": []}
+{"text": "[Operator Instructions]\n \n ", "labels": []}
+{"text": "I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director for Investor Relations.", "labels": []}
+{"text": "Please go ahead, sir.\n \n ", "labels": []}
+{"text": "Martin Viecha --", "labels": []}
+{"text": "Senior Director for Investor Relations\n \n Thank you, Sherry, and good afternoon, everyone.", "labels": []}
+{"text": "Welcome to Tesla's first quarter 2020 Q&A webcast.", "labels": []}
+{"text": "I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives.", "labels": []}
+{"text": "Our Q1 results were announced at about 1:00 p.m. Pacific Time in the update deck we published at the same link as this webcast.\n \n ", "labels": []}
+{"text": "During this call, we will discuss our business outlook and make forward-looking statements.", "labels": []}
+{"text": "These comments are based on our predictions and expectations as of today.", "labels": []}
+{"text": "Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.\n \n ", "labels": []}
+{"text": "During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.", "labels": []}
+{"text": "[Operator Instructions]\n \n ", "labels": []}
+{"text": "Before we jump into Q&A, Elon has some opening remarks.", "labels": []}
+{"text": "Elon?\n \n ", "labels": []}
+{"text": "Elon Musk --", "labels": []}
+{"text": "Co-Founder and Chief Executive Officer\n \n Thank you.", "labels": []}
+{"text": "So, Q1 ended up being a strong quarter despite many challenges in the final few weeks.", "labels": []}
+{"text": "This is the first time we have achieved positive GAAP net income in a seasonally weak first quarter.", "labels": []}
+{"text": "Even with all the challenges, we achieved a 20% automotive gross margin, excluding regulatory credits while ramping two major products.", "labels": []}
+{"text": "What we've learned from this is that -- we've obviously learned a lot here.", "labels": []}
+{"text": "After all -- after the Model 3 ramp from three years ago, our new products get run faster and become profitable sooner.", "labels": []}
+{"text": "In Q1, we produced more Model Ys in the first quarter than Model 3s in Fremont in the first two quarters.", "labels": []}
+{"text": "Thus far, the Model Y ramp has been even faster than the Giga Shanghai ramp in Q1.", "labels": []}
+{"text": "Most surprisingly -- in other words, we are ahead of the schedule that we were ahead of already.", "labels": []}
+{"text": "Most surprisingly, Model Y was profitable already in its first quarter of production, something we haven't achieved with any product in the past.\n \n ", "labels": []}
+{"text": "Regarding Autopilot, we released a new software update for traffic lights and stop signs to early access users in March and to all US customers with full self-driving package just last week.", "labels": []}
+{"text": "Our cars will now automatically stop at each stop sign or traffic light until the driver gets a confirmation to proceed.", "labels": []}
+{"text": "I should say that the car is actually capable of much more than this, but we are only exposing functionality that we feel quite good about and", "labels": []}
+{"text": "where we feel it is probably a safety improvement.\n \n ", "labels": []}
+{"text": "We are collecting data from over 1 million intersections every month at this point.", "labels": []}
+{"text": "This number will grow exponentially as more people get the update and as more people start driving again.", "labels": []}
+{"text": "Soon, we will be collecting data from over 1 billion intersections per month.", "labels": []}
+{"text": "All of those confirmations are training on neural net, essentially, the driver when driving and taking action is effectively labeling -- the labeling reality as they drive, and making the neural net better and better.", "labels": []}
+{"text": "I think this is an advantage that no one else has, and we're quite literally orders of magnitude more than everyone else combined.", "labels": []}
+{"text": "I think, this is difficult to fully appreciate.", "labels": []}
+{"text": "It's the reason I say it's very difficult to have a search engine that competes with Google because everyone is training Google all the time with their searches.", "labels": []}
+{"text": "So, when you're searching something and you click on a link, you're training Google every time you do that.", "labels": []}
+{"text": "It's very difficult for any new search engine to compete on that basis.\n \n ", "labels": []}
+{"text": "So, all those confirmations are training on neural net, and soon cars will be able to drive through an intersection without a confirmation, as well as to make turns.", "labels": []}
+{"text": "And we really feel we're --", "labels": []}
+{"text": "I feel extremely confident that it will be possible to do a drive from your home to your office, and most of the time with no interventions by the end of the year.", "labels": []}
+{"text": "So, this is -- we can almost do this already with the leading edge AlphaBots [Phonetic] that are driving in the car.\n \n ", "labels": []}
+{"text": "So, let's see.", "labels": []}
+{"text": "On other technology fronts, we increased the range of Model S and X yet again.", "labels": []}
+{"text": "This time to 391 miles for Model S and 351 miles for Model X.", "labels": []}
+{"text": "Actually, we said that, actually, the model -- the real Model S range is 400 miles, but when we did the last EPA test, unfortunately, ATA left, the car door opened and the keys in the car.", "labels": []}
+{"text": "So the car --", "labels": []}
+{"text": "and they did this overnight.", "labels": []}
+{"text": "And so, the car actually went into a waiting for driver mode and lost 2% of its range.", "labels": []}
+{"text": "And as a result, it had a 391 test.", "labels": []}
+{"text": "As soon as the EPA reopens for testing, we will redo the test, and we're actually confident that we will achieve a 400 mile or greater range with the Model S.", "labels": []}
+{"text": "But to be clear, the Model S, for the past two months -- the true range of the Model S for the past two months has been 400 miles.", "labels": []}
+{"text": "And, of course, we're not stopping there.", "labels": []}
+{"text": "We're continuously [Phonetic] pushing for improved range over time and improving, handling, acceleration and all those details that make Tesla special.\n \n ", "labels": []}
+{"text": "For Model Y, we introduced a revolutionary two-piece rear underbody casting that we are going to be making a single-piece casting later this year, meaning like essentially the rear third of the body is cast as a single piece, which is no casting of the size of complexity has never been done before.", "labels": []}
+{"text": "In fact, there isn't even anything that is on par with the two-piece casting for the Model Y.", "labels": []}
+{"text": "So, we're really pushing the envelope on vehicle structural, engineering and manufacturing.", "labels": []}
+{"text": "I'm very excited about this approach as it allows us to reduce the weight of the cast and improve NVH.", "labels": []}
+{"text": "It's better in every way essentially.\n \n ", "labels": []}
+{"text": "We also -- for Model Y, we also introduced a revolutionary new heat pump, which allows the car to have a higher range.", "labels": []}
+{"text": "So the Model Y has remarkable range on par with -- in fact slightly better than, I guess, the Model 3 and just despite being a bigger car that weighs more.", "labels": []}
+{"text": "And the heat pump is a key contributor to that.", "labels": []}
+{"text": "It is especially excellent at low-temperature driving.", "labels": []}
+{"text": "So -- and the feedback we're getting from customers who have received the Model Y thus far has been universally positive.", "labels": []}
+{"text": "We're confident this product will be our best-selling product ever.\n \n ", "labels": []}
+{"text": "So in conclusion, and just to -- looking forward, I guess this is a forward-looking statement.", "labels": []}
+{"text": "We are absolutely continuing our Model Y capacity expansion at full speed at both Giga Berlin and Giga Shanghai and here in Fremont when they will let us continue.", "labels": []}
+{"text": "Localized production in China and in Europe will bring the cost down, making our products even more competitive over time.", "labels": []}
+{"text": "While many other companies are cutting back on investment, we are doing the opposite.", "labels": []}
+{"text": "We're absolutely pedal to the metal on new products and expanding the Company.\n \n ", "labels": []}
+{"text": "And we're really looking forward to being in sometime next year, a truly global manufacturer with major factories in North America, China and Europe and a capacity of well over 1 million units a year.", "labels": []}
+{"text": "So there's a tremendous amount to look forward to, and we can't wait to tell you what's going to happen.", "labels": []}
+{"text": "Thank you.\n \n ", "labels": []}
+{"text": "Martin Viecha --", "labels": []}
+{"text": "Senior Director for Investor Relations\n \n Thank you.", "labels": []}
+{"text": "And now to Zach's opening remarks.\n \n ", "labels": []}
+{"text": "Zachary J. Kirkhorn -- Chief Financial Officer\n \n ", "labels": []}
+{"text": "Yeah.", "labels": []}
+{"text": "Thanks, Martin and thanks, Elon.", "labels": []}
+{"text": "I'm very proud of the accomplishments of the Tesla team this past quarter.", "labels": []}
+{"text": "A few things to highlight and add to what Elon just mentioned.", "labels": []}
+{"text": "We successfully launched, ramped and demonstrated profitability of the Model Y, as Elon mentioned significantly ahead of schedule.", "labels": []}
+{"text": "This is our second large-scale product launch since Model 3 in 2017", "labels": []}
+{"text": "and it's evidence to the progress we've made on cost control and ramp efficiency.\n \n ", "labels": []}
+{"text": "It's hard to understate the significance of demonstrating profitability of this program in its first quarter of production.", "labels": []}
+{"text": "Our Shanghai Model 3 margins improved dramatically since Q4 of last year, nearing equivalents of Model 3's built in Fremont.", "labels": []}
+{"text": "This is despite not yet running at full capacity, while also managing through the production shutdown in early February.\n \n ", "labels": []}
+{"text": "We also announced a long-range end performance variant of Model 3 for our road map, which will positively impact ASPs in China.", "labels": []}
+{"text": "On order rates, we did not experience much of an impact related to the expiration of government incentives at the end of Q4.", "labels": []}
+{"text": "In fact, we exited the quarter with our highest ever backlog yet again.", "labels": []}
+{"text": "Aided by these accomplishments, we are able to achieve our first ever Q1 profit.", "labels": []}
+{"text": "Automotive gross margin, excluding the impact of regulatory credits remained strong for all products, despite charges taken in Q1 associated with production downtime.", "labels": []}
+{"text": "We continue to make progress on opex efficiency, as well as our service and other margins.\n \n ", "labels": []}
+{"text": "Our energy business was impacted as well by shutdown activities in Q1 limiting deployments.", "labels": []}
+{"text": "We also experienced expected launch inefficiencies associated with our third version of the Solar Roof, which impacted overall profitability.\n \n ", "labels": []}
+{"text": "As I've noted before, we expect regulatory credit sales, which are credits we sell to other carmakers to generally increase with time.", "labels": []}
+{"text": "This can be seen by the increase from Q1 relative to Q4.", "labels": []}
+{"text": "And note that most of the credit revenue did not contribute to cash in Q1, and it's reflected in the accounts receivable on the balance sheet.\n \n ", "labels": []}
+{"text": "Our free cash flows were impacted by the temporary -- by the temporary increase in end of quarter inventory for all our products resulting from the abrupt suspension of production and delivery operations.", "labels": []}
+{"text": "Had these interruptions not occurred, we were pacing toward a record quarter of deliveries and strong free cash flows.\n \n ", "labels": []}
+{"text": "As Elon mentioned, it is extremely important that we remain on track to achieve our long-term plans and technology road map.", "labels": []}
+{"text": "We are taking the near-term actions required to continue those investments.", "labels": []}
+{"text": "Model Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for Model Y in Fremont and Model 3 in Shanghai.\n \n ", "labels": []}
+{"text": "In the near term, our Shanghai factory remains operational, contributing an increasing level of cash flows and profitability to the Company.", "labels": []}
+{"text": "In Fremont, we're working toward restarting production as soon as that's possible.", "labels": []}
+{"text": "We are also continuing to deliver cars that we were unable to deliver at the end of the first quarter.", "labels": []}
+{"text": "Our vehicle inventory balance increased by 14,000 units at the end of Q1, which was a headwind to free cash flows in Q1, but it's helpful in Q2.", "labels": []}
+{"text": "Note that one of the most important aspects of Model Y in Fremont and Model 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.\n \n ", "labels": []}
+{"text": "While sales and delivery operations have paused in many areas of the world, we are still receiving many online orders, despite inability for our customers to experience the product prior to ordering.", "labels": []}
+{"text": "However, unavoidably, the extended shutdown in Fremont will have an impact on our near-term financial performance and we will need to work through how quickly we'll be able to ramp production to prior levels.\n \n ", "labels": []}
+{"text": "More broadly, we remain focused on ensuring our cash flows are managed appropriately.", "labels": []}
+{"text": "Working capital management, in particular, raw material inventory is the single most important lever in managing our cash flows during this time.", "labels": []}
+{"text": "The Tesla team has done a great job here.", "labels": []}
+{"text": "We've also taken actions to eliminate or reduce non-critical expenses and optional investments while continuing to drive efficiencies throughout the business.\n \n ", "labels": []}
+{"text": "Overall, we've modeled many scenarios into 2021 and remain comfortable that we have sufficient liquidity to proceed fully with our most important long-term investments.", "labels": []}
+{"text": "It's important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.", "labels": []}
+{"text": "And we have the ability to quickly adjust our spending and planning as required.\n \n ", "labels": []}
+{"text": "So thank you again to the Tesla team for success in Q1, and we will turn to questions.\n \n ", "labels": []}
+{"text": "Martin Viecha --", "labels": []}
+{"text": "Senior Director for Investor Relations\n \n Thank you very much.", "labels": []}
+{"text": "So we'll take the first questions from institutional investors compiled by Say Technologies.\n \n", "labels": []}
